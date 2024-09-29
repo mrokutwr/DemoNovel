@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Story_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 40d67e4d2d1754b53a13fffa7ca49db7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 41388335104
+    m_Localized: Granny, how about we make a little bun? You know, like we used to...
+      It's been a while since anything like that happened.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1832972705792
+    m_Localized: "Don\u2019t worry, I\u2019ll get the flour and knead the dough.
+      All you need to do is roll it\u2026 Remember how good we were at it?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8790060556288
+    m_Localized: "Oh, old man, I'm too old for that. And honestly, there\u2019s not
+      much flour left either\u2026 Maybe we should just rest?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8800605036544
+    m_Localized: "Come on now, don\u2019t say that. Just give it a little effort,
+      granny! Your hands remember how to roll it! A few times back and forth\u2014and
+      the bun\u2019s ready."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8810038026240
+    m_Localized: "Oh, Geezer\u2026 At your age, making buns? And what would even
+      come of it? I'm not so sure..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10342645096448
+    m_Localized: Old man
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10378716110848
+    m_Localized: Granny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41238882410496
+    m_Localized: Autor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41282297651200
+    m_Localized: To start press space / left-click or tap on the phone screen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41610501939200
+    m_Localized: The End
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,5 @@
+Character1(L):dialogKey0
+Character1(L):dialogKey1
+Character2(R):dialogKey2
+Character1(L):dialogKey3
+Character2(R):dialogKey4
